@@ -46,8 +46,9 @@ ___
 
 🏆 Achievements
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=realximanta&theme=tokyonight&no-frame=true&column=4"/></div>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realximanta&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+</div>
 ___
 
 🚀 Current Focus

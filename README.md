@@ -94,7 +94,7 @@ and building things that matter.»
 
 ___
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 

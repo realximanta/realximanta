@@ -46,26 +46,33 @@ ___
 
 ___
 
+
 📈 Contribution Graph
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=realximanta&theme=tokyo-night&hide_border=true"/></div>
 
 ___
 
-⚡ Current Focus
+## 🌌 Beyond The Code
 
-╭─────────────────────────────────────────╮
-│ 🤖 AI & Automation          ██████████ │
-│ 🌐 Full Stack Development   ████████░░ │
-│ 📦 Open Source              ███████░░░ │
-│ 🏗️ System Design            ██████░░░░ │
-╰─────────────────────────────────────────╯
+<div align="center">
 
-💡 Currently experimenting with AI-powered tools,
-building web applications, and contributing to
-open-source projects.
+🤖 Artificial Intelligence
+
+🌐 Web Development
+
+📚 Technology History
+
+🚀 Open Source
+
+🏛️ Political Science
+
+✨ Curious about the technologies, ideas, and people shaping the future.
+
+</div>
 
 ___
+
 
 🌐 Connect
 

@@ -36,13 +36,13 @@ ___
 
 ⚡ Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,c,cpp,java,mongodb,mysql,git,github,linux,vscode&perline=9"/></div>-
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,c,cpp,java,mongodb,mysql,git,github,linux,vscode&perline=9"/></div>
 
 ___
 
-📊 GitHub Analytics
+<img src="https://streak-stats.demolab.com?user=realximanta&theme=tokyonight&hide_border=true" width="80%" /><br><br>
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=realximanta&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realximanta&layout=compact&theme=tokyonight&hide_border=true"/></div><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=realximanta&theme=tokyonight&hide_border=true"/></div>
+<sub>📈 Tracking growth, one commit at a time.</sub>
 
 ___
 
@@ -53,21 +53,17 @@ ___
 
 ___
 
-## 🌌 Beyond The Code
+🌌 Beyond The Code
 
-<div align="center">
-
-🤖 Artificial Intelligence
-
-🌐 Web Development
-
-📚 Technology History
-
-🚀 Open Source
-
-🏛️ Political Science
-
-✨ Curious about the technologies, ideas, and people shaping the future.
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00F5FF&center=true&width=800&lines=Exploring+technology.;Studying+innovation.;Building+for+the+future.;Always+curious." /><br><table>
+<tr>
+<td align="center">🤖<br><b>AI</b></td>
+<td align="center">🌐<br><b>Web</b></td>
+<td align="center">📚<br><b>History</b></td>
+<td align="center">🚀<br><b>Open Source</b></td>
+<td align="center">🏛️<br><b>Politics</b></td>
+</tr>
+</table><br><sub>Curious about technology, society, and the ideas shaping tomorrow.</sub>
 
 </div>
 
@@ -98,12 +94,7 @@ and building things that matter.»
 
 ___
 
-🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realximanta/realximanta/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/realximanta/realximanta/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 ___
 

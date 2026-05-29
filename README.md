@@ -52,12 +52,18 @@ ___
 
 ___
 
-🚀 Current Focus
+⚡ Current Focus
 
-▰▰▰▰▰▰▰▰▰▰  AI & Automation
-▰▰▰▰▰▰▰▰▱▱  Full Stack Development
-▰▰▰▰▰▰▰▱▱▱  Open Source
-▰▰▰▰▰▰▱▱▱▱  System Design
+╭─────────────────────────────────────────╮
+│ 🤖 AI & Automation          ██████████ │
+│ 🌐 Full Stack Development   ████████░░ │
+│ 📦 Open Source              ███████░░░ │
+│ 🏗️ System Design            ██████░░░░ │
+╰─────────────────────────────────────────╯
+
+💡 Currently experimenting with AI-powered tools,
+building web applications, and contributing to
+open-source projects.
 
 ___
 

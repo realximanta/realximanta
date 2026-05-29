@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=XIMANTA%20BHUYAN&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Builder%20•%20Tech%20Explorer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there+👋+I'm+Ximanta;Building+cool+things+with+code;Open+Source+Enthusiast;AI+|+Web+Development+|+Technology;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there+I'm+Ximanta;Building+cool+things+with+code;Open+Source+Enthusiast;AI+|+Web+Development+|+Technology;Always+Learning+Something+New"/>
 
 <br><br>
 
@@ -50,13 +50,6 @@ ___
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=realximanta&theme=tokyo-night&hide_border=true"/></div>
 
-___
-
-🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realximanta&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-</div>
 ___
 
 🚀 Current Focus

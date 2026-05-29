@@ -69,18 +69,29 @@ ___
 
 ___
 
+🌐 Connect & Reach Me
 
-🌐 Connect
-
-<div align="center"><a href="https://about.ximanta.xyz">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Let's+connect+and+build+something+awesome.;Open+to+collaboration+and+new+ideas.;Technology+%E2%80%A2+Innovation+%E2%80%A2+Creativity" /><br><a href="https://about.ximanta.xyz">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-about.ximanta.xyz-7C3AED?style=for-the-badge&labelColor=0D1117"/>
 </a><a href="mailto:realximanta@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://instagram.com/real.ximanta">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧%20Email-realximanta@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117"/>
+</a><br><br>
+
+<a href="https://instagram.com/real.ximanta">
+  <img src="https://img.shields.io/badge/📸%20Instagram-@real.ximanta-E4405F?style=for-the-badge&labelColor=0D1117"/>
 </a><a href="https://github.com/realtuku">
-  <img src="https://img.shields.io/badge/Backup_GitHub-181717?style=for-the-badge&logo=github"/>
-</a></div>
+  <img src="https://img.shields.io/badge/🗂️%20Backup%20GitHub-realtuku-181717?style=for-the-badge"/>
+</a><br><br>
+
+<a href="https://wa.me/8562051701854">
+  <img src="https://img.shields.io/badge/💬%20WhatsApp-Chat%20Directly-25D366?style=for-the-badge&labelColor=0D1117"/>
+</a></div><br><div align="center">╭──────────────────────────────────────────╮
+
+  │  Open to learning, collaboration,        │
+│  interesting projects, and new ideas.    │
+╰──────────────────────────────────────────╯
+
+</div>
 
 ___
 

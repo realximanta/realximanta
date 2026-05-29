@@ -94,7 +94,22 @@ and building things that matter.»
 
 ___
 
+## 🐍 Contribution Snake
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/realximanta/realximanta/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/realximanta/realximanta/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 ___
 

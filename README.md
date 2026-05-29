@@ -1,4 +1,12 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=XIMANTA%20BHUYAN&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Builder%20•%20Tech%20Explorer&descAlignY=58"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B+I'm+Ximanta;Building+cool+things+with+code;Open+Source+Enthusiast;AI+%7C+Web+Development+%7C+Technology;Always+Learning+Something+New"/><br>https://komarev.com/ghpvc/?username=realximanta&style=for-the-badge&color=00f5ff
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=XIMANTA%20BHUYAN&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Builder%20•%20Tech%20Explorer&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there+👋+I'm+Ximanta;Building+cool+things+with+code;Open+Source+Enthusiast;AI+|+Web+Development+|+Technology;Always+Learning+Something+New"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=realximanta&style=for-the-badge&color=00f5ff"/>
 
 </div>
 

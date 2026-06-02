@@ -88,7 +88,7 @@ ___
 </a></div><br><div align="center">╭──────────────────────────────────────────╮
 
   │  Open to learning, collaboration,        │
-│  interesting projects, and new ideas.    │
+│  interesting projects, and new ideas!    │
 ╰──────────────────────────────────────────╯
 
 </div>

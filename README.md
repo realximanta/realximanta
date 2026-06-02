@@ -19,7 +19,7 @@ ___
 
 🚀 Currently building projects, learning modern technologies, and experimenting with AI
 
-📚 Interested in Artificial Intelligence, Web Development, Open Source, Technology History, and Political Science
+📚 Interested in Artificial Intelligence, Web Development, Open Source, Technology History, and Political Science.
 
 ✨ Believer in continuous growth and lifelong learning.
 

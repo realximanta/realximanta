@@ -17,7 +17,7 @@ ___
 
 🌐 Exploring the intersection of Technology, Creativity, and Innovation
 
-🚀 Currently building projects, learning modern technologies, and experimenting with AI
+🚀 Currently building projects, learning modern technologies, and experimenting with AI.
 
 📚 Interested in Artificial Intelligence, Web Development, Open Source, Technology History, and Political Science.
 

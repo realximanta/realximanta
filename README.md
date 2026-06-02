@@ -21,7 +21,7 @@ ___
 
 📚 Interested in Artificial Intelligence, Web Development, Open Source, Technology History, and Political Science
 
-✨ Believer in continuous growth and lifelong learning
+✨ Believer in continuous growth and lifelong learning.
 
 <br><img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Web%20Development-00F5FF?style=for-the-badge" />

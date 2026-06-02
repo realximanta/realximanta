@@ -15,7 +15,7 @@ ___
 ✨ About Me
 
 
-🌐 Exploring the intersection of Technology, Creativity, and Innovation
+🌐 Exploring the intersection of Technology, Creativity, and Innovation.
 
 🚀 Currently building projects, learning modern technologies, and experimenting with AI.
 

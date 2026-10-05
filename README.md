@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/tukuexe/tukuexe/file_0000000002a081f5b4798fc12e2453cd.jpg" width="100%" alt="">
+<img src="tukuexe/tukuexe/file_0000000002a081f5b4798fc12e2453cd.jpg" width="100%" alt="">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=XIMANTA%20BHUYAN&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Developer%20•%20Builder%20•%20Tech%20Explorer&descAlignY=58"/>
 

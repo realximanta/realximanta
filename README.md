@@ -267,7 +267,7 @@ Learn something.
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@codex__storebot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/codex_storebot)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@cb4nzw-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/b4nzw)
+[![Telegram](https://img.shields.io/badge/Telegram-@b4nzw-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/b4nzw)
 
 
 </div>

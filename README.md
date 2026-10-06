@@ -91,7 +91,7 @@ Learning by building, debugging, and experimenting.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS%20-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 

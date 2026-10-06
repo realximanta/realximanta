@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality;Turning+concepts+into+products;Coding+with+curiosity;Debugging+with+patience;Learning+every+day" alt="typing animation" />
 
 # `> XIMANTA BHUYAN_`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality;Turning+concepts+into+products;Coding+with+curiosity;Debugging+with+patience;Learning+every+day" alt="typing animation" />
 
 ### Vibe Coder • Full-Stack Developer • Digital Builder
 
@@ -260,15 +261,14 @@ Learn something.
 
 [![GitHub](https://img.shields.io/badge/GitHub-realximanta-181717?style=for-the-badge&logo=github)](https://github.com/realximanta)
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-about.ximanta.xyz-7C3AED?style=for-the-badge&labelColor=0D1117)](https://ximanta.xyz)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ximanta.xyz-7C3AED?style=for-the-badge&labelColor=0D1117)](https://www.ximanta.xyz)
 
 [![Email](https://img.shields.io/badge/📧%20Email-realximanta@gmail.com-EA4335?style=for-the-badge&labelColor=0D1117)](mailto:realximanta@gmail.com)
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@codex__storebot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/codex_storebot)
 
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-@real.ximanta-E4405F?style=for-the-badge&labelColor=0D1117)](https://instagram.com/real.ximanta)
+[![Telegram](https://img.shields.io/badge/Telegram-@cb4nzw-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/b4nzw)
 
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Chat-25D366?style=for-the-badge&labelColor=0D1117)](https://wa.me/8562051701854)
 
 </div>
 

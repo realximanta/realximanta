@@ -7,9 +7,9 @@
 
 ### Vibe Coder • Full-Stack Developer • Digital Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-realximanta-181717?style=for-the-badge&logo=github)](https://github.com/realximanta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ximanta.xyz-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ximanta.xyz)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codex_storebot)
+[![GitHub](https://img.shields.io/badge/GitHub-realtuku-181717?style=for-the-badge&logo=github)](https://github.com/realtuku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ximanta.xyz-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ximanta.xyz)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b4nzw)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realximanta&style=flat-square&color=00D4FF&label=PROFILE+VIEWS)
 
@@ -37,7 +37,7 @@ Learning by building, debugging, and experimenting.
 
 👋 Hey, I'm **Ximanta** — a self-taught developer passionate about turning ideas into real-world products. 🚀
 
-💻 I build **Telegram bots, APIs, automation utilities, web apps, and Android projects** with a strong focus on practical problem-solving.
+💻 I build **Telegram bots, APIs, automation utilities, web apps, and Android Apps** with a strong focus on practical problem-solving.
 
 ⚡ Exploring new technologies, shipping ideas, and improving through every build.
 

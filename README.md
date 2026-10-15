@@ -1,17 +1,33 @@
 <div align="center">
 
-
 # `> XIMANTA BHUYAN_`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality;Turning+concepts+into+products;Coding+with+curiosity;Debugging+with+patience;Learning+every+day" alt="typing animation" />
 
 ### Vibe Coder • Full-Stack Developer • Digital Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-realtuku-181717?style=for-the-badge&logo=github)](https://github.com/realtuku)
+[![GitHub](https://img.shields.io/badge/GitHub-realximanta-181717?style=for-the-badge&logo=github)](https://github.com/realximanta)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ximanta.xyz-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ximanta.xyz)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b4nzw)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realximanta&style=flat-square&color=00D4FF&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## `00` // FINAL COUNTDOWN
+
+<div align="center">
+
+[![Days Remaining](https://img.shields.io/badge/DAYS%20REMAINING-XX-FF0040?style=for-the-badge&labelColor=0D1117)](#)
+
+> ⚠️ **This account will be permanently abandoned on 01-01-2027.**
+>
+> After that date, `realximanta` becomes a read-only backup archive.
+> No new projects. No new commits. No new identity here.
+>
+> → The full story is in [APOLOGY.md](./APOLOGY.md) and [CONS.md](./CONS.md).
 
 </div>
 
@@ -53,17 +69,12 @@ Learning by building, debugging, and experimenting.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
-> Built across multiple projects, experiments, and older repositories from my development journey from 2024 to 2026.
+> Only the languages actually shipped across my repositories. No padding, no badges I haven't earned.
 
 ---
 
@@ -99,70 +110,100 @@ Learning by building, debugging, and experimenting.
 
 ## `04` // FEATURED PROJECTS
 
-### 01. 🤖 Daymark
+> Tap a project to expand it.
 
-> Daymark — Open-Source Journaling App for Android.
+<details>
+<summary><b>01. 🛠️ ximanta-gitfetcher</b> — <i>Kotlin GitHub data fetcher</i></summary>
+<br>
 
-**Tech Stack:** Kotlin • Android • Material Design
+> A Kotlin-based utility that pulls, parses, and structures GitHub data through the GitHub API — built for fast repo and user introspection.
 
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-Daymark-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/daymark)
-- **Status:** 🟢 Active development
+**Tech Stack:** Kotlin • GitHub API • Gradle • REST
 
----
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-ximanta--gitfetcher-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/ximanta-gitfetcher)
+- **Status:** 🟢 Active
+- **License:** MIT
 
-### 02. 🚀 cf-telegram-bot
+</details>
 
-> Free Telegram bot to create Cloudflare DNS CNAME records.
+<details>
+<summary><b>02. 🎨 bannerforge</b> — <i>Terminal banner generator</i></summary>
+<br>
 
-**Tech Stack:** HTML • JavaScript • Cloudflare
+> A Python-powered terminal banner generator that turns plain text into styled ASCII art logos for CLIs, scripts, and startup screens.
 
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-Cloudflare_Bot-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/cf-telegram-bot)
-- **Status:** 🟢 Live
+**Tech Stack:** Python • CLI • ASCII Art
 
----
-
-### 03. 🧠 MorningByte
-
-> Python-based utility and automation project focused on problem solving and experimentation.
-
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-MorningByte-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/MorningByte)
-- **Status:** 🟢 In progress
-
----
-
-### 04. 🧩 user-to-num-api
-
-> API utility project focused on conversion and data processing automation.
-
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-User_API-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/user-to-num-api)
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-bannerforge-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/bannerforge)
 - **Status:** 🟢 Active
 
----
+</details>
 
-### 05. 📦 AI-Model-APIs
+<details>
+<summary><b>03. 💳 fampay-autopay</b> — <i>Payment automation toolkit</i></summary>
+<br>
 
-> A collection of free, keyless AI model APIs designed for direct integration.
+> A lightweight web-based toolkit for automating FamPay payment flows — built for speed, simplicity, and low-friction transactions.
 
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-AI_APIs-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/AI-Model-APIs)
-- **Status:** 🟢 Public utility
+**Tech Stack:** HTML • JavaScript • Web APIs
 
----
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-fampay--autopay-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/fampay-autopay)
+- **Status:** 🟢 Active
+- **License:** MIT
 
-### 06. 🌐 Portfolio & Web Experiments
+</details>
 
-> Multiple websites and frontend experiments built while learning modern web stacks.
+<details>
+<summary><b>04. 🧠 deepseek-backup</b> — <i>DeepSeek conversation backup</i></summary>
+<br>
 
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/portfolio)
-- [![GitHub Repo](https://img.shields.io/badge/GitHub-Hostly-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/Hostly)
+> A backup utility that preserves DeepSeek AI conversations in a clean, portable format — so your history survives beyond any single session.
 
----
+**Tech Stack:** HTML • JavaScript • Local Storage
 
-### 07. More Repositories
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-deepseek--backup-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/deepseek-backup)
+- **Status:** 🟢 Active
+- **License:** MIT
 
-Explore the rest of my repositories for tools, bots, and experiments.
+</details>
 
-[![Explore Repositories](https://img.shields.io/badge/Explore-Primary_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/realximanta?tab=repositories)
-[![Old Work](https://img.shields.io/badge/Explore-Previous_Work-181717?style=for-the-badge&logo=github)](https://github.com/realtuku?tab=repositories)
+<details>
+<summary><b>05. 📓 daymark</b> — <i>Open-source Android journaling app</i></summary>
+<br>
+
+> Daymark is a privacy-first Android journaling app with local SQLite storage, scheduled reminders, offline-first sync, and a clean Material UI.
+
+**Tech Stack:** Kotlin • Android • SQLite • Material Design
+
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-daymark-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/daymark)
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-daymark--app-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/daymark-app)
+- **Status:** 🟢 Active development
+
+</details>
+
+<details>
+<summary><b>06. 🌐 cf-telegram-bot</b> — <i>Cloudflare DNS via Telegram</i></summary>
+<br>
+
+> A free Telegram bot that creates Cloudflare DNS CNAME records on the fly — no dashboard, no login, just a chat message.
+
+**Tech Stack:** HTML • JavaScript • Cloudflare API • Telegram Bot API
+
+- [![GitHub Repo](https://img.shields.io/badge/GitHub-cf--telegram--bot-181717?style=for-the-badge&logo=github)](https://github.com/realximanta/cf-telegram-bot)
+- **Status:** 🟢 Live
+
+</details>
+
+<details>
+<summary><b>07. 📦 More Repositories</b> — <i>Tools, bots, and experiments</i></summary>
+<br>
+
+> Everything else lives in the repo list — smaller utilities, forks, and in-progress builds.
+
+- [![Explore Repositories](https://img.shields.io/badge/Explore-Primary_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/realximanta?tab=repositories)
+- [![Old Work](https://img.shields.io/badge/Explore-Previous_Work-181717?style=for-the-badge&logo=github)](https://github.com/realtuku?tab=repositories)
+
+</details>
 
 ---
 
@@ -215,10 +256,17 @@ Explore the rest of my repositories for tools, bots, and experiments.
    │
    ▼
 
-NOW  ──► THE JOURNEY CONTINUES
-         Shipping practical tools.
-         Improving my problem-solving skills.
-         Turning ideas into software.
+2027 ──► THE HANDOFF
+         This account goes quiet on 01-01-2027.
+         The work stays. The identity changes.
+         See APOLOGY.md and CONS.md.
+
+   │
+   ▼
+
+NEXT ──► A DIFFERENT PERSONA
+         A new account, a new focus.
+         realximanta becomes the backup archive.
 ```
 
 ---
@@ -249,7 +297,7 @@ Learn something.
 
 | Profile | Description |
 |---------|-------------|
-| [@realximanta](https://github.com/realximanta) | Primary GitHub profile |
+| [@realximanta](https://github.com/realximanta) | Primary GitHub profile — archived 01-01-2027 |
 | [@tukuexe](https://github.com/tukuexe) | Secondary / current vibe profile |
 | [@realtuku](https://github.com/realtuku) | Older profile used for earlier projects |
 
@@ -269,7 +317,6 @@ Learn something.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@b4nzw-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/b4nzw)
 
-
 </div>
 
 ---
@@ -280,7 +327,7 @@ Learn something.
 
   │  Open to learning, collaboration,        │
   │  interesting projects, and new ideas!    │
-  
+
 ╰──────────────────────────────────────────╯
 
 </div>

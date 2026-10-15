@@ -20,7 +20,9 @@ jobs:
           NOW=$(date -u +%s)
           DAYS=$(( (TARGET - NOW) / 86400 ))
           if [ "$DAYS" -lt 0 ]; then DAYS=0; fi
-          sed -i -E "s/DAYS%20REMAINING-[0-9]+/DAYS%20REMAINING-${DAYS}/g" README.md
+          
+          # FIXED: Now replaces XX OR any existing number
+          sed -i -E "s/DAYS%20REMAINING-[A-Za-z0-9]+/DAYS%20REMAINING-${DAYS}/g" README.md
 
       - name: Commit and push
         run: |

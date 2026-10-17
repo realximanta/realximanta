@@ -15,7 +15,6 @@
 </div>
 
 ---
-> **Himanta Bhuyan** · known to everyone as **Tuku** · publishing as **Ximanta**
 
 ## `00` // FINAL COUNTDOWN
 
@@ -33,6 +32,8 @@
 </div>
 
 ## About
+
+> **Himanta Bhuyan** · known to everyone as **Tuku** · publishing as **Ximanta**
 
 I'm Himanta Bhuyan — **Tuku** to anyone who's known me longer than five minutes, and
 **Ximanta** on everything I publish. All three are me; the account just carries the third.
@@ -81,6 +82,7 @@ Learning by building, debugging, and experimenting.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

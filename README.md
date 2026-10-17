@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Days Remaining](https://img.shields.io/badge/DAYS%20REMAINING-76-FF0040?style=for-the-badge&labelColor=0D1117)](#)
+[![Days Remaining](https://img.shields.io/badge/DAYS%20REMAINING-75-FF0040?style=for-the-badge&labelColor=0D1117)](#)
 
 > ⚠️ **This account will be permanently abandoned on 01-01-2027.**
 >

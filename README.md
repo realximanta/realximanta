@@ -2,8 +2,6 @@
 
 # `> XIMANTA BHUYAN_`
 
-> **Himanta Bhuyan** · known to everyone as **Tuku** · publishing as **Ximanta**
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality;Turning+concepts+into+products;Coding+with+curiosity;Debugging+with+patience;Learning+every+day" alt="typing animation" />
 
 ### Vibe Coder • Full-Stack Developer • Digital Builder
@@ -17,6 +15,7 @@
 </div>
 
 ---
+> **Himanta Bhuyan** · known to everyone as **Tuku** · publishing as **Ximanta**
 
 ## `00` // FINAL COUNTDOWN
 
@@ -32,6 +31,19 @@
 > → The full story is in [APOLOGY.md](./APOLOGY.md) and [CONS.md](./CONS.md).
 
 </div>
+
+## About
+
+I'm Himanta Bhuyan — **Tuku** to anyone who's known me longer than five minutes, and
+**Ximanta** on everything I publish. All three are me; the account just carries the third.
+
+I'm from Kaziranga, Assam. That's not a footnote — it shapes how I build and how I write.
+
+This account is winding down — see the countdown above and [`CONS.md`](CONS.md) for why.
+The projects stay up, MIT-licensed, and anyone is welcome to fork them and carry them
+further than I did.
+
+**অসমীয়া** · **Assamese** · **Hindi** · English — in that order, most days.
 
 ---
 

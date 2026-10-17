@@ -227,11 +227,9 @@ Learning by building, debugging, and experimenting.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realximanta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=realximanta&border_radius=41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realximanta&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=realximanta&theme=tokyonight&hide_border=true)
+![Top Languages](https://ghstats.dev/api/langs?username=realximanta&max_langs=12)
 
 </div>
 

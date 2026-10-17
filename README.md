@@ -2,6 +2,8 @@
 
 # `> XIMANTA BHUYAN_`
 
+> **Himanta Bhuyan** · known to everyone as **Tuku** · publishing as **Ximanta**
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality;Turning+concepts+into+products;Coding+with+curiosity;Debugging+with+patience;Learning+every+day" alt="typing animation" />
 
 ### Vibe Coder • Full-Stack Developer • Digital Builder

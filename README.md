@@ -226,7 +226,7 @@ Learning by building, debugging, and experimenting.
 ## `05` // GITHUB STATISTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realximanta&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=realximanta&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realximanta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>

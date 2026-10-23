@@ -2,7 +2,7 @@ name: Countdown Updater
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily at 00:00 UTC
+    - cron: '30 14 * * *'   # Runs at 8:00 PM IST (14:30 UTC) - No more delays!
   workflow_dispatch:
 
 permissions:
@@ -16,12 +16,16 @@ jobs:
 
       - name: Update days remaining
         run: |
-          TARGET=$(date -u -d "2027-01-01 00:00:00" +%s)
-          NOW=$(date -u +%s)
-          DAYS=$(( (TARGET - NOW) / 86400 ))
+          # Define target date and today's date in UTC
+          TARGET_DATE="2027-01-01"
+          NOW_DATE=$(date -u +%Y-%m-%d)
+          
+          # Calculate exact calendar days difference
+          DAYS=$(( ($(date -u -d "$TARGET_DATE" +%s) - $(date -u -d "$NOW_DATE" +%s)) / 86400 ))
+          
           if [ "$DAYS" -lt 0 ]; then DAYS=0; fi
           
-          # FIXED: Now replaces XX OR any existing number
+          # Update the README
           sed -i -E "s/DAYS%20REMAINING-[A-Za-z0-9]+/DAYS%20REMAINING-${DAYS}/g" README.md
 
       - name: Commit and push

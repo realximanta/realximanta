@@ -229,6 +229,7 @@ Learning by building, debugging, and experimenting.
   <img src="https://github-readme-stats.shion.dev/api?username=realximanta&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=default&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realximanta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=realximanta&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---

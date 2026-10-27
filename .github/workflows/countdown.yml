@@ -2,7 +2,8 @@ name: Countdown Updater
 
 on:
   schedule:
-    - cron: '30 14 * * *'   # Runs at 8:00 PM IST (14:30 UTC) - No more delays!
+    # 18:45 UTC is 12:15 AM IST (Runs just after midnight your time)
+    - cron: '45 18 * * *'   
   workflow_dispatch:
 
 permissions:
@@ -16,14 +17,18 @@ jobs:
 
       - name: Update days remaining
         run: |
-          # Define target date and today's date in UTC
           TARGET_DATE="2027-01-01"
-          NOW_DATE=$(date -u +%Y-%m-%d)
+          
+          # FORCE the script to use IST (Asia/Kolkata) for today's date
+          NOW_DATE=$(TZ='Asia/Kolkata' date +%Y-%m-%d)
           
           # Calculate exact calendar days difference
-          DAYS=$(( ($(date -u -d "$TARGET_DATE" +%s) - $(date -u -d "$NOW_DATE" +%s)) / 86400 ))
+          DAYS=$(( ($(date -d "$TARGET_DATE" +%s) - $(date -d "$NOW_DATE" +%s)) / 86400 ))
           
           if [ "$DAYS" -lt 0 ]; then DAYS=0; fi
+          
+          echo "Today in IST is: $NOW_DATE"
+          echo "Days remaining: $DAYS"
           
           # Update the README
           sed -i -E "s/DAYS%20REMAINING-[A-Za-z0-9]+/DAYS%20REMAINING-${DAYS}/g" README.md
@@ -34,7 +39,7 @@ jobs:
           git config user.email "countdown-bot@users.noreply.github.com"
           git add README.md
           if git diff --staged --quiet; then
-            echo "No change."
+            echo "No change needed. Date is already correct."
           else
             git commit -m "chore: update countdown [skip ci]"
             git push

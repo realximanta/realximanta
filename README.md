@@ -16,21 +16,6 @@
 
 ---
 
-## `00` // FINAL COUNTDOWN
-
-<div align="center">
-
-[![Days Remaining](https://img.shields.io/badge/DAYS%20REMAINING-44-FF0040?style=for-the-badge&labelColor=0D1117)](#)
-
-> ⚠️ **This account will be permanently abandoned on 01-01-2027.**
->
-> After that date, `realximanta` becomes a read-only backup archive.
-> No new projects. No new commits. No new identity here.
->
-> → The full story is in [APOLOGY.md](./APOLOGY.md) and [CONS.md](./CONS.md).
-
-</div>
-
 ## About
 
 > **Himanta Bhuyan** · known to everyone as **Tuku** · publishing as **Ximanta**
